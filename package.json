@@ -1,0 +1,35 @@
+{
+    "name": "flobin-design",
+    "displayName": "Flobins Theme",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "publisher": "Flobin",
+    "categories": [
+        "Themes"
+    ],
+    "galleryBanner": {
+        "color": "#0C1016",
+        "theme": "dark"
+    },
+    "bugs": {
+        "url": "https://github.com/Flobin-Git/Random_number/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Flobin-Git/Random_number"
+    },
+    "icon": "icon.png",
+    "keywords": ["flobin"],
+    "contributes": {
+        "themes": [
+            {
+                "label": "flobins theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/flobins theme-color-theme.json"
+            }
+        ]
+    }
+}
