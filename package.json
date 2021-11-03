@@ -8,7 +8,7 @@
     },
     "icon": "icon.png",
     "scripts": {
-        "deploy": "vsce publisher --yarn"
+        "deploy": "vsce publish --yarn"
     },
     "publisher": "Flobin",
     "categories": [
