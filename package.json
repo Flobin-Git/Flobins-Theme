@@ -21,8 +21,9 @@
         "type": "git",
         "url": "https://github.com/Flobin-Git/Random_number"
     },
-    "icon": "icon.png",
-    "keywords": ["flobin"],
+    "keywords": [
+        "flobin"
+    ],
     "contributes": {
         "themes": [
             {
@@ -31,5 +32,8 @@
                 "path": "./themes/flobins theme-color-theme.json"
             }
         ]
+    },
+    "devDependencies": {
+        "vsce": "^1.103.0"
     }
 }
