@@ -1,4 +1,1 @@
-# README
-## This is the README for your extension "flobin-design"
-
-hello
+Just a theme from Flobin-Design

@@ -6,7 +6,6 @@
     "engines": {
         "vscode": "^1.61.0"
     },
-    "license": "MIT license",
     "publisher": "Flobin",
     "categories": [
         "Themes"
