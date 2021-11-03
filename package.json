@@ -7,7 +7,7 @@
         "vscode": "^1.61.0"
     },
     "scripts": {
-    "deploy": "vsce publish --yarn"
+        "deploy": "vsce publish --yarn"
     },
     "publisher": "Flobin",
     "categories": [
