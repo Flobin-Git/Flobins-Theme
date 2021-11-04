@@ -1,9 +1,9 @@
 
-![Rating](https://img.shields.io/visual-studio-marketplace/r/Flobin.flobin-design?style=flat-square)
+![Rating](https://img.shields.io/visual-studio-marketplace/r/Flobin.flobins-theme?style=flat-square)
 ![Issues Open](https://img.shields.io/github/issues-raw/Flobin-Git/Flobins-Theme?style=flat-square)
 ![Issues Closed](https://img.shields.io/github/issues-closed-raw/Flobin-Git/Flobins-Theme?style=flat-square)
 ![Build](https://img.shields.io/github/workflow/status/Flobin-Git/Flobins-Theme/Publish)
-![Version](https://img.shields.io/visual-studio-marketplace/v/Flobin.flobin-design)
+![Version](https://img.shields.io/visual-studio-marketplace/v/Flobin.flobins-theme)
 
 # Flobin's Color Theme
 

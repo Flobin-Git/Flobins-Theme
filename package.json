@@ -2,7 +2,7 @@
     "name": "flobins-theme",
     "displayName": "Flobins Theme",
     "description": "",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.61.0"
     },
@@ -26,7 +26,7 @@
         "url": "https://github.com/Flobin-Git/Flobins-Theme"
     },
     "keywords": [
-        "flobin","dark","blue","monokai"
+        "flobin","dark","blue","monokai","color-theme","theme","design","best dark theme"
     ],
     "contributes": {
         "themes": [
