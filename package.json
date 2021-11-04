@@ -1,5 +1,5 @@
 {
-    "name": "flobin-design",
+    "name": "flobins-theme",
     "displayName": "Flobins Theme",
     "description": "",
     "version": "0.0.1",
@@ -26,7 +26,7 @@
         "url": "https://github.com/Flobin-Git/Flobins-Theme"
     },
     "keywords": [
-        "flobin"
+        "flobin","dark","blue","monokai"
     ],
     "contributes": {
         "themes": [
